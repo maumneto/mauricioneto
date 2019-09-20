@@ -14,6 +14,14 @@ function GoToLinkedin(){
     document.location.href = "https://www.linkedin.com/in/maur%C3%ADcio-moreira-neto-a1a624aa/";
 }
 
+function GoToGithub(){
+    document.location.href = "https://github.com/maumneto";
+}
+
+function GoToChart(){
+    document.location.href = "https://www.chartjs.org";
+}
+
 function send_mail(){
     ConfirmBoxEmail();
 }
