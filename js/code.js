@@ -18,8 +18,16 @@ function GoToGithub(){
     document.location.href = "https://github.com/maumneto";
 }
 
+function GoToGithub_2(){
+    document.location.href = "https://github.com/";
+}
+
 function GoToChart(){
     document.location.href = "https://www.chartjs.org";
+}
+
+function Javascript(){
+    document.location.href = "https://www.javascript.com";
 }
 
 function send_mail(){
