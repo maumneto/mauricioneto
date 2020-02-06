@@ -1,4 +1,4 @@
-## Site com minhas informações profissionais
+## Site Pessoal com Informações Profissionais
 -------
 [![GitHub stars](https://img.shields.io/github/stars/maumneto/mauricioneto)](https://github.com/maumneto/mauricioneto/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/maumneto/mauricioneto)](https://github.com/maumneto/mauricioneto/issues)
