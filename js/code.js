@@ -42,7 +42,7 @@ function ButtonMouseOver(element){
 
 function ButtonMouseOut(element){
     element.style.color = "#000000";
-    element.style.backgroundColor = "white";
+    element.style.backgroundColor = "#ffffff";
 }
 
 function BigImgOver(element){
@@ -60,7 +60,7 @@ function ConfirmBoxEmail(){
     return_value = confirm("Você pretende mandar um E-mail?");
     
     if(return_value == true){
-        document.location.href = "mailto:maumneto@gmail.com";
+        document.location.href = "mailto:maumneto@ufc.br";
     } else {
         return;
     }
