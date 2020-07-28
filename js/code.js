@@ -11,7 +11,7 @@ function GoToScholar(){
 }
 
 function GoToLinkedin(){
-    document.location.href = "https://www.linkedin.com/in/maur%C3%ADcio-moreira-neto-a1a624aa/";
+    document.location.href = "https://www.linkedin.com/in/maumneto/";
 }
 
 function GoToGithub(){
