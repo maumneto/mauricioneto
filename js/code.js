@@ -60,7 +60,7 @@ function ConfirmBoxEmail(){
     return_value = confirm("Você pretende mandar um E-mail?");
     
     if(return_value == true){
-        document.location.href = "mailto:maumneto@ufc.br";
+        document.location.href = "mailto:maumneto@gmail.com";
     } else {
         return;
     }
